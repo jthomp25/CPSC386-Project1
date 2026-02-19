@@ -11,3 +11,5 @@
 These are my .cs scripts for the first 386 project
 
 Included are the scripts themselves and also the .meta files just in case. 
+
+Also included is the entire project as version control. You dont need to check them out per the project instructions but feel free as they are the same as what is uploaded via zip.
